@@ -1,5 +1,5 @@
 # Spotify-Playlist
-### MachineLearning-Project from DataScience-Bootcamp
+### MachineLearning-Project (Clustering) from DataScience-Bootcamp
 
 Moosic is a little start up that creates curated playlists done by music experts and specialists in old and new trends. Users can subscribe to their website and listen to these playlists through their preferred Music App (be it Spotify, Apple Music, Youtube Music…). They love the fact that their playlists have a personal touch, and that each playlist encapsulates a certain “mood” or “style”.
 
